@@ -1,0 +1,6 @@
+{
+  "name": "얼불춤 (A Dance of Fire and Ice Web)",
+  "description": "음악의 리듬에 맞춰 회전하는 불과 얼음의 행성을 조작하여 타일을 완주하는 리듬 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
